@@ -22,10 +22,12 @@ public class IncomingListener extends Thread {
 	ServerSocket server;
 
 	public IncomingListener() {
+		// TODO: Add argument and save it in the instance variable
 	}
 
 	@Override
-	public void run()
-	{
+	public void run() {
+
+		// TODO: Listen for incoming conversations
 	}
 }

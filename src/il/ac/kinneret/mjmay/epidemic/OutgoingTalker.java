@@ -22,6 +22,7 @@ public class OutgoingTalker extends TimerTask {
 	 * Builds an outgoing talker task
 	 */
 	public OutgoingTalker() {
+		// TODO: Set things up for the outgoing sessions.
 	}
 
 	/**
@@ -31,5 +32,6 @@ public class OutgoingTalker extends TimerTask {
 	 */
 	@Override
 	public void run() {
+		// TODO: Select a random neighbor and synchronize with it.
 	}
 }

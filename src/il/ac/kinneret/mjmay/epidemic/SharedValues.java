@@ -4,13 +4,15 @@ import java.util.Timer;
 import java.util.Vector;
 
 /**
- * Shared values for the tool - neighbors list and local value.  Don't forget to use mutual exclusion for the shared
+ * Singleton shared values for the tool - neighbors list and local value.  Don't forget to use mutual exclusion for the shared
  * value to prevent concurrency problems.
  *
  * @author Michael J. May
  * @version 2024
  */
 public class SharedValues {
+
+	// TODO: Add a shared value and use mutual exclusion to protect it.
 
 	/**
 	 * The list of neighbors loaded from the file

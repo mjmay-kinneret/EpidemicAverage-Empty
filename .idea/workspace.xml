@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a1f8464-5b8c-4a3a-b02b-1fb2a4850ece" name="Changes" comment="">
+    <list default="true" id="0a1f8464-5b8c-4a3a-b02b-1fb2a4850ece" name="Changes" comment="Added comments and JavaDoc">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/il/ac/kinneret/mjmay/epidemic/EpidemicAverage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/il/ac/kinneret/mjmay/epidemic/EpidemicAverage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/il/ac/kinneret/mjmay/epidemic/IncomingListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/il/ac/kinneret/mjmay/epidemic/IncomingListener.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/il/ac/kinneret/mjmay/epidemic/OutgoingTalker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/il/ac/kinneret/mjmay/epidemic/OutgoingTalker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/il/ac/kinneret/mjmay/epidemic/ParseNeighbors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/il/ac/kinneret/mjmay/epidemic/ParseNeighbors.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/il/ac/kinneret/mjmay/epidemic/SharedValues.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/il/ac/kinneret/mjmay/epidemic/SharedValues.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,6 +82,15 @@
       <option name="presentableId" value="Default" />
       <updated>1639306838921</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added comments and JavaDoc">
+      <option name="closed" value="true" />
+      <created>1732532064350</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1732532064351</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -96,5 +103,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added comments and JavaDoc" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added comments and JavaDoc" />
   </component>
 </project>
