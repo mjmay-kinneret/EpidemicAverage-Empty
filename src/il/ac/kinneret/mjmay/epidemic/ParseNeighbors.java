@@ -9,6 +9,13 @@ import java.net.InetAddress;
 import java.net.UnknownHostException;
 import java.util.Vector;
 
+/**
+ * Neighbor parsing code for the tool.  Takes lines of the form "127.0.0.1:5000" and converts them to entries in a
+ * vector for later use.
+ *
+ * @author Michael J. May
+ * @version 2024
+ */
 public class ParseNeighbors {
 	
 	/**

@@ -4,19 +4,42 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a1f8464-5b8c-4a3a-b02b-1fb2a4850ece" name="Changes" comment="" />
+    <list default="true" id="0a1f8464-5b8c-4a3a-b02b-1fb2a4850ece" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/il/ac/kinneret/mjmay/epidemic/EpidemicAverage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/il/ac/kinneret/mjmay/epidemic/EpidemicAverage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/il/ac/kinneret/mjmay/epidemic/IncomingListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/il/ac/kinneret/mjmay/epidemic/IncomingListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/il/ac/kinneret/mjmay/epidemic/OutgoingTalker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/il/ac/kinneret/mjmay/epidemic/OutgoingTalker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/il/ac/kinneret/mjmay/epidemic/ParseNeighbors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/il/ac/kinneret/mjmay/epidemic/ParseNeighbors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/il/ac/kinneret/mjmay/epidemic/SharedValues.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/il/ac/kinneret/mjmay/epidemic/SharedValues.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "mjmay-kinneret"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/mjmay-kinneret/EpidemicAverage-Empty.git",
+    "accountId": "d4038411-d9d4-412e-baa5-a828dcc89a1a"
+  }
+}]]></component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="22BN5aZQGqqMQpl10hZ1QGkmc4u" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -25,6 +48,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Michael/My Drive/Distributed Systems Fall 5783/Recitations/EpidemicAverage"
   }
@@ -50,13 +75,6 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="jdk-19.0.2-corretto-19.0.2-f644763e9732-1e16d6ec" />
-      </set>
-    </attachedChunks>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -67,5 +85,16 @@
       <updated>1639306838921</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

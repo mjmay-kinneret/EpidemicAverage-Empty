@@ -11,6 +11,11 @@ import java.util.Random;
 import java.util.TimerTask;
 import java.util.Vector;
 
+/**
+ * Class for initiating an outgoing communication session.  The local shared value will be updated after the conversation.
+ * @author Michael J. May
+ * @version 2024
+ */
 public class OutgoingTalker extends TimerTask {
 
 	/**

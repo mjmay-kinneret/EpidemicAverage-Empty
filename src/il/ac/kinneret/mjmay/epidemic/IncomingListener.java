@@ -8,8 +8,17 @@ import java.io.PrintWriter;
 import java.net.ServerSocket;
 import java.net.Socket;
 
+/**
+ * Thread to listen for incoming communications.  When a conversation comes in, we update the local shared value.
+ *
+ * @author Michael J. May
+ * @version 2024
+ */
 public class IncomingListener extends Thread {
 
+	/**
+	 * The socket to listen on.
+	 */
 	ServerSocket server;
 
 	public IncomingListener() {
